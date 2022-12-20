@@ -2,6 +2,6 @@
 Name: Reeni
 Age: 25
 Address: NY
-QF: MCA
 Salary: 25Lk
+DOJ: 15days
 
