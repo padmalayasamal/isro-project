@@ -1,7 +1,7 @@
 
-Name:
-Age:
-Address:
-QF:
-Salary:
+Name: Reeni
+Age: 25
+Address: NY
+QF: MCA
+Salary: 25Lk
 
